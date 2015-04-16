@@ -1,7 +1,8 @@
+import javax.swing.JOptionPane;
 
 public abstract class Shape {
 
-	protected int a, b, c;
+
 	protected double area;
 	protected double perimeter;
 	
