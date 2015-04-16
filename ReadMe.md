@@ -1,0 +1,1 @@
+This is a free manual for first time users as regards GitHub Software tool. Feel free to gain access to it
