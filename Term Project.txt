@@ -1,0 +1,26 @@
+
+public abstract class Shape {
+
+	protected int a, b, c;
+	protected double area;
+	protected double perimeter;
+	
+	public Shape(int a){
+		this.a = a;
+	}
+	
+	public Shape(int a, int b){
+		this.a = a;
+		this.b = b;
+	}
+	
+	public Shape(int a, int b, int c){
+		this.a = a;
+		this.b = b;
+		this.c = c;
+	}
+	
+		
+	public abstract double calculatePerimeter();
+
+    public abstract double calculateArea();}
