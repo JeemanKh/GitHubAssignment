@@ -1,7 +1,9 @@
+import.java.swing.JOptionPane;
+This is just an alteration to see how VCS works
 
 public abstract class Shape {
 
-	protected int a, b, c;
+	
 	protected double area;
 	protected double perimeter;
 	
